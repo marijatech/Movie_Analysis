@@ -3,10 +3,10 @@ This project performs an analysis of a movie dataset using Python. The goal is t
 Libraries Used<br>
 The following libraries are utilized in this analysis:<br>
 
-pandas: for data manipulation and analysis<br>
-matplotlib: for creating static visualizations<br>
-seaborn: for enhanced statistical data visualization<br>
+Pandas: for data manipulation and analysis<br>
+Matplotlib: for creating static visualizations<br>
+Seaborn: for enhanced statistical data visualization<br>
 Project Structure<br>
-Data Loading and Cleaning: Initial steps involve loading the data and cleaning it to ensure consistency.<br>
-Exploratory Data Analysis (EDA): Visualizations and summary statistics are generated to explore relationships in the data.<br>
-Key Insights and Observations: Findings based on the analysis are highlighted.<br>
+* Data Loading and Cleaning: Initial steps involve loading the data and cleaning it to ensure consistency<br>
+* Exploratory Data Analysis (EDA): Visualizations and summary statistics are generated to explore relationships in the data<br>
+* Key Insights and Observations: Findings based on the analysis are highlighted<br>
